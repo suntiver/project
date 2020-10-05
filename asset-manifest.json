@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suntiver/project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/suntiver/project/static/js/main.3ced90b0.chunk.js",
+    "main.js.map": "/suntiver/project/static/js/main.3ced90b0.chunk.js.map",
+    "runtime-main.js": "/suntiver/project/static/js/runtime-main.642a47e3.js",
+    "runtime-main.js.map": "/suntiver/project/static/js/runtime-main.642a47e3.js.map",
+    "static/js/2.fbb0c6d8.chunk.js": "/suntiver/project/static/js/2.fbb0c6d8.chunk.js",
+    "static/js/2.fbb0c6d8.chunk.js.map": "/suntiver/project/static/js/2.fbb0c6d8.chunk.js.map",
+    "index.html": "/suntiver/project/index.html",
+    "precache-manifest.9abda3ca30ebfa27a1c77e980c5ab871.js": "/suntiver/project/precache-manifest.9abda3ca30ebfa27a1c77e980c5ab871.js",
+    "service-worker.js": "/suntiver/project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/suntiver/project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fbb0c6d8.chunk.js.LICENSE.txt": "/suntiver/project/static/js/2.fbb0c6d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/suntiver/project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.642a47e3.js",
+    "static/js/2.fbb0c6d8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3ced90b0.chunk.js"
+  ]
+}
